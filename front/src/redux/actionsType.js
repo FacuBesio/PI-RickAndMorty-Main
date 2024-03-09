@@ -1,0 +1,13 @@
+
+//? CHARACTERS
+export const SEARCH_CHARACTER = "SEARCH_CHARACTER";
+export const GET_ALL_CHARACTERS = "GET_ALL_CHARACTERS";
+export const GET_CHARACTER_DETAIL = "GET_CHARACTER_DETAIL";
+export const CLEAN_DETAIL = "CLEAN_DETAIL";
+
+//? FAVOTIRES
+export const ADD_FAV = "ADD_FAV";
+export const REMOVE_FAV = "REMOVE_FAV";
+export const FILTER_CARDS = "FILTER_CARDS";
+export const ORDER_CARDS = "ORDER_CARDS";
+

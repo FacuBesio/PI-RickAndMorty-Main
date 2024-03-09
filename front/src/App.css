@@ -1,0 +1,33 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: "Lemon", serif;
+  background-color: #1f1f1f;
+  color: #eaeaea;
+  background: url("../src/assets/Img/rick_and_morty_hd_night_family-1920x1080.jpg")
+    fixed;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  font-family: "Roboto Mono", monospace;
+}
+
+button {
+  font-family: "Tektur", sans-serif;
+  
+}
+
